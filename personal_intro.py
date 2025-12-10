@@ -1,5 +1,4 @@
 # Program Name: User Welcome Message Generator
-# Author: Ganesh Biradar
 # Date: December 10, 2025
 # Description: This program collects basic user information and displays a friendly, personalized summary.
 
