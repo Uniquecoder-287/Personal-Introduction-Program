@@ -1,0 +1,6 @@
+# This program uses only standard Python library features and does not require 
+# any external packages. 
+# 
+# If a specific version of Python is required, you might add a note here, 
+# for example:
+# Python >= 3.6
