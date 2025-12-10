@@ -33,7 +33,7 @@ The script will prompt you for five pieces of information:
 1.  Name
 2.  Age
 3.  Favorite Hobby
-4.  Favorite Color
+4.  Favorite Car
 5.  Current City
 
 After gathering all the inputs, it generates and displays a warm, formatted summary of your details.
